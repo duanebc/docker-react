@@ -1,0 +1,4 @@
+- Create github repo
+- Create local git repo
+- Create local git to github remote
+- Push work to github
